@@ -7,7 +7,7 @@
 
 🎓 *Software Engineering Student*  
 💻 Aspiring **Full Stack Developer**  
-🚀 Passionate about building useful, elegant, and efficient solutions.
+
 
 ---
 
