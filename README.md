@@ -1,7 +1,8 @@
 
 <h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">👋 Hey there, I'm Mayerly 🌻</marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=👋+Hey+there,+I'm+Mayerly+🌻" alt="Typing SVG" />
 </h3>
+
 
 
 🎓 *Software Engineering Student*  
