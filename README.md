@@ -67,6 +67,8 @@
 - 🌐 Portfolio: In progress
 
 
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&fontColor=9AEBA3&stroke=9AEBA3&fontAlign=67&fontAlignY=12" width="100%" height="100%">
+<p style="height: 300px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=false&fontColor=9AEBA3&stroke=9AEBA3&fontAlign=67&fontAlignY=12" 
+       style="width: 100%; height: 100%;">
 </p>
+
