@@ -39,7 +39,7 @@
 ---
 
 
-📊 GitHub Insights
+## 📊 GitHub Insights
 
 
 <div align="center">
@@ -59,6 +59,7 @@
 
 </div>
 
+---
 
 ## 📫 Let's Connect
 
