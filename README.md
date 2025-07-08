@@ -1,13 +1,14 @@
 
-
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=**Hi%20**there,%20I%20am%20Mayerly"/>
 </p>
+
+---
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=👋+Hey+there,+I'm+Mayerly+🌻" alt="Typing SVG" color="pink"/>
 </h3>
-
-
+---
 
 🎓 *Software Engineering Student*  
 💻 Aspiring **Full Stack Developer**  
