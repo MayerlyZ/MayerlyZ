@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&fontColor=9AEBA3&stroke=9AEBA3&fontAlign=67&fontAlignY=12"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&fontColor=9AEBA3&stroke=9AEBA3&fontAlign=67&fontAlignY=12"/>
 </p>
 
----
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=👋+Hey+there,+I'm+Mayerly+🌻" alt="Typing SVG" color="pink"/>
 </h3>
