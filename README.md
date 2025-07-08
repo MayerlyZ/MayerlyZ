@@ -36,7 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
+
 📊 GitHub Insights
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MayerlyZ&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff6f61&icon_color=ff6f61&text_color=c9d1d9&hide_border=true" width="49%" />
@@ -53,6 +55,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=MayerlyZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayerly-zapata-rodriguez-27160524a/)
