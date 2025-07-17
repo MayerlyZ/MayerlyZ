@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&fontColor=9AEBA3&stroke=9AEBA3&fontAlign=67&fontAlignY=12"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&reversal=false&fontColor=F20587&stroke=9AEBA3&fontAlign=67&fontAlignY=12"/>
 </p>
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=👋+Hey+there,+I'm+Mayerly+🌻" alt="Typing SVG" color="pink"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=1000&color=&center=true&vCenter=true&width=435&lines=👋+Hey+there,+I'm+Mayerly+🌻" alt="Typing SVG" color="pink"/>
 </h3>
 
 
@@ -53,11 +53,11 @@
 
 <br><br>
 
-<p align="center">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MayerlyZ&theme=neon&no-frame=true&no-bg=true&margin-w=4)
 
-</p>
+
 
 
 </div>
