@@ -47,18 +47,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MayerlyZ&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff6f61&icon_color=ff6f61&text_color=c9d1d9&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayerlyZ&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ff6f61&text_color=c9d1d9&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MayerlyZ&show_icons=true&theme=neon&bg_color=0d1117&title_color=ff6f61&icon_color=ff6f61&text_color=c9d1d9&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayerlyZ&layout=compact&theme=neon&bg_color=0d1117&title_color=ff6f61&text_color=c9d1d9&hide_border=true" width="49%" />
 
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayerlyZ&theme=dark"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayerlyZ&theme=neon"/> 
 </p>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MayerlyZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=MayerlyZ&theme=neon&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
