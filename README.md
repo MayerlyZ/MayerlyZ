@@ -57,9 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayerlyZ&theme=neon"/> 
 </p>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MayerlyZ&theme=neon&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
