@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=24&pause=1000&color=F20587&center=true&vCenter=true&width=435&lines=👋+Hey+there,+I'm+Mayerly+🌻" alt="Typing SVG" color="pink"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=35&pause=1000&color=F20587&center=true&vCenter=true&width=435&lines=👋+Hey+there,+I'm+Mayerly+🌻" alt="Typing SVG" color="pink"/>
 </h3>
 
 
