@@ -97,4 +97,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100&section=footer"/>
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MayerlyZ/MayerlyZ/output/snake.svg" alt="Snake animation" />
+
 
