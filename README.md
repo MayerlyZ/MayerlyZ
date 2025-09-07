@@ -90,7 +90,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayerly-zapata-rodriguez-27160524a/)
 - 📧 Email: mayerlyzapatarodriguez@gmail.com
-- 🌐 Portfolio: In progress
+- 🌐 Portfolio: https://mayerlyzapatarodriguez.netlify.app/
 
 
 <p align="center">
